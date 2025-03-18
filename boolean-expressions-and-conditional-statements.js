@@ -25,7 +25,7 @@ Paste the following code into your editor:
 */
 
 const readline = require('readline-sync');
-
+console.log("Welcome to the Adventure Game!");
 const hasTorch = true;
 const hasMap = false;
 
